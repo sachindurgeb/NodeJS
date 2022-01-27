@@ -1,2 +1,2 @@
 # NodeJS
-NodeJS application repository.
+NodeJS sample application repository.
